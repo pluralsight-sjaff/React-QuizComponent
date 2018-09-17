@@ -1,10 +1,7 @@
 import React, {Component} from 'react'
 
 
-class QuizQuestion extends React.Component {
-  constructor(props){
-    super(props)
-  }
+class QuizQuestion extends Component {
   render() {
     return(
       <main>
